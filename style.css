@@ -732,6 +732,11 @@ h4 {
   color: #333333 !important;
 }
 
+.p-citation {
+  font-size: 22px;
+  font-style: italic;
+}
+
 .icons {
   margin-bottom: 14px;
   margin-top: 24px;
